@@ -1,0 +1,1 @@
+<p> {{$type}}:{{$name}} è stata asfaltata</p>

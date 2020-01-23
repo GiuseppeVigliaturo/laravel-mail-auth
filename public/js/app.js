@@ -49661,8 +49661,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\vigli\Desktop\Boolean\Laravel\lezione-22-01-master\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\vigli\Desktop\Boolean\Laravel\lezione-22-01-master\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\vigli\Desktop\Boolean\Laravel\laravel-mail-auth\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\vigli\Desktop\Boolean\Laravel\laravel-mail-auth\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
